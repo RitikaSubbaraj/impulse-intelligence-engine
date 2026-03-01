@@ -1,0 +1,16 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Model files (optional - if large)
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
